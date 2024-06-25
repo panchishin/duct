@@ -52,4 +52,5 @@ Backprop is no different than regular MCTS.
 # Links
 
 - "fully decoupled UCT" is very similar to Smitsimax https://www.codingame.com/playgrounds/36476/smitsimax
+- "game state represented as a matrix" https://www.researchgate.net/publication/257926115_Monte_Carlo_Tree_Search_for_Simultaneous_Move_Games_A_Case_Study_in_the_Game_of_Tron
 
