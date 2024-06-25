@@ -44,11 +44,12 @@ dodge  UCB = UCB( visits = id 79 visits + id 81 visit , wins = id 79 wins + id 8
 let's say using this the UCB eval for dogde is higher, so agent X chooses dodge.
 We do the same for agent Y.  Let's say that agent Y chooses attack.
 
-# Links
-
-- "fully decoupled UCT" is very similar to Smitsimax https://www.codingame.com/playgrounds/36476/smitsimax
-
 Since agent X action is dodge, and agent Y action is attack, that means
 we select child id 79
 
 Backprop is no different than regular MCTS.
+
+# Links
+
+- "fully decoupled UCT" is very similar to Smitsimax https://www.codingame.com/playgrounds/36476/smitsimax
+
