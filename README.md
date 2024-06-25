@@ -47,4 +47,4 @@ We do the same for agent Y.  Let's say that agent Y chooses attack.
 Since agent X action is dodge, and agent Y action is attack, that means
 we select child id 79
 
-Backprop is no different.
+Backprop is no different than regular MCTS.
